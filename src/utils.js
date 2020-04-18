@@ -428,4 +428,5 @@ export {
   getModuleCode,
   getExportCode,
   shouldUseModulesPlugins,
+  getLocalIdent
 };
